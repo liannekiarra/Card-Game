@@ -7,12 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.io.*;
 
-/**
- * Write a description of class r here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class ReadTxtIntoList
 {
     static List<Integer> list = new ArrayList<Integer>();
